@@ -26,10 +26,6 @@ namespace APS4
             this.EnginePower = EnginePower;
 
         }
-        public CarPrototype getAddress()
-        {
-            return (this);
-        }
         public void EditName(string Name)
         {
             this.Name = Name;

@@ -193,8 +193,6 @@ namespace APS4
         {
             int i = listCars.SelectedIndex;
 
-            var A = CarManager.GetList()[i].getAddress();
-
             unsafe
             {
 
